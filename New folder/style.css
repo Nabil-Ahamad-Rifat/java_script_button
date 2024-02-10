@@ -1,0 +1,21 @@
+.back_bbutton{
+  background-color: lightseagreen;
+  border: 1px solid black;
+  border-radius: 50px;
+  padding: 20px;
+  text-transform: capitalize;
+  font-weight: bold;
+}
+.wish_button{
+  background-color: rgba(214, 214, 195, 0.53);
+  border: 2px solid black;
+  border-radius: 50px;
+  padding: 20px;
+  text-align: center;
+  text-transform: capitalize;
+
+}
+h1{
+  text-transform: capitalize;
+  text-align: center;
+}
